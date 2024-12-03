@@ -1,2 +1,2 @@
 # Eagle-Game
-GUI oordinate-based Eagle flight game
+GUI coordinate-based Eagle flight game
